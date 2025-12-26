@@ -2,7 +2,14 @@
 
 [![](https://jitpack.io/v/Realizedd/Duels.svg)](https://jitpack.io/#Realizedd/Duels)
 
-A duel plugin for spigot. <a href="https://www.spigotmc.org/resources/duels.20171/">Spigot Project Page</a>
+The TrueOG Network branch of Duels - a duel plugin for spigot. <a href="https://www.spigotmc.org/resources/duels.20171/">Spigot Project Page</a>
+
+This branch includes the following changes that have yet to be merged into Duels upstream:
+
+- Inventory loss bug fixes by @szumielxd
+- Essentials API NPE fix by @skbeh
+- Update deprecated pickup API by @NotAlexNoyle
+- Prevent players from stealing Duels items by @dwaslashe
 
 ---
 
