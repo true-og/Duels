@@ -1,14 +1,13 @@
 <h1>Duels</h1> 
 
-[![](https://jitpack.io/v/Realizedd/Duels.svg)](https://jitpack.io/#Realizedd/Duels)
+The [TrueOG Network](https://trueog.net) branch of [Duels](https://github.com/Realizedd/Duels) - a duel plugin for Spigot. <a href="https://www.spigotmc.org/resources/duels.20171/">Spigot Project Page</a>
 
-The TrueOG Network branch of Duels - a duel plugin for spigot. <a href="https://www.spigotmc.org/resources/duels.20171/">Spigot Project Page</a>
-
-This branch includes the following changes that have yet to be merged into Duels upstream:
+This branch includes the following proposed changes that have yet to be merged into Duels upstream:
 
 - Inventory loss bug fixes by @szumielxd
 - Essentials API NPE fix by @skbeh
 - Update deprecated pickup API by @NotAlexNoyle
+- Added an option to hide the bet winning title message by @NotAlexNoyle
 - Prevent players from stealing Duels items from the inventory by @dwaslashe
 - Prevent players from stealing Duels items from the ground by @SrBedrock
 
