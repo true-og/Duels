@@ -12,7 +12,7 @@ fun localJar(name: String) = files(rootProject.file("libs/$name.jar"))
 
 allprojects {
     group = "me.realized"
-    version = "3.6"
+    version = "3.5.0"
 }
 
 subprojects {
