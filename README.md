@@ -7,6 +7,7 @@ This branch includes the following proposed changes that have yet to be merged i
 - Inventory loss bug fixes by @szumielxd
 - Essentials API NPE fix by @skbeh
 - Update deprecated pickup API by @NotAlexNoyle
+- Added an option to hide the Duel winning title message by @NotAlexNoyle
 - Added an option to hide the bet winning title message by @NotAlexNoyle
 - Prevent players from stealing Duels items from the inventory by @dwaslashe
 - Prevent players from stealing Duels items from the ground by @SrBedrock
