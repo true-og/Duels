@@ -9,7 +9,8 @@ This branch includes the following changes that have yet to be merged into Duels
 - Inventory loss bug fixes by @szumielxd
 - Essentials API NPE fix by @skbeh
 - Update deprecated pickup API by @NotAlexNoyle
-- Prevent players from stealing Duels items by @dwaslashe
+- Prevent players from stealing Duels items from the inventory by @dwaslashe
+- Prevent players from stealing Duels items from the ground by @SrBedrock
 
 ---
 
